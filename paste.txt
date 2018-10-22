@@ -1,2 +1,0 @@
-import ssTranslateScript
-ssTranslateScript.main()
